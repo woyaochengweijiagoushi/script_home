@@ -1,2 +1,7 @@
 # script_home
-脚本必须1.步骤完整清晰2.不报错3.能够完成描述的功能
+The script must 
+1. be complete and clear in steps
+2. not produce errors
+3. be able to accomplish the described functionality.
+
+
